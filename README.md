@@ -1,21 +1,12 @@
 <img src="./images/Sankalan Dasgupta (1).png" alt="cover image">
 
-### Hi there 👋
+### Hi there I'm Sankalan Dasgupta👋
 
-<!--
-**Sankalan47/Sankalan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: Full Stack Development
+- 👯 I’m looking to collaborate on: Open source projects on Web Development
+- 📫 How to reach me: Connect on LinkedIn and FaceBook
+- ⚡ Fun fact: I can make Digital Illustrations and play Valorant and CSGO
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 📊 Programming Languages I know:
 <div style="display: inline"/>
