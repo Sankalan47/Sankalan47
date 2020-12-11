@@ -50,3 +50,9 @@
  <a href="https://twitter.com/Sankalan47"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
  <a href="https://www.facebook.com/sankalan.dasgupta.75"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
  <a href="https://www.reddit.com/user/iKnwImNoob/"><img src="https://gp3.googleusercontent.com/Gb6FxVQZmHwQ9bdtizfLNe15D5j_8ttRj4x-baArip-8FHTDNHEbox94qNhsxy-IhH6a4hSxZGRQnd8yAzgR_pkINTxPUvhxTUHS0JUUiyXtP21KxMuVsMhpQZDzGBo3JYuwc5J9Sw=s48-p-k" style="margin-right : 5px"/></a>
+
+---
+
+[![Sankalan's github stats](https://github-readme-stats.vercel.app/api?username=sankalan47&show_icons=true&theme=algolia)](https://github.com/sankalan47?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalan47&show_icons=true&theme=algolia)](https://github.com/sankalan47?tab=repositories)
+
