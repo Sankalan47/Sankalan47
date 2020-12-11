@@ -2,6 +2,7 @@
 
 ### Hi there I'm Sankalan Dasgupta👋
 <p>Welcome to my GitHub profile :pray:</p>
+<p>I'm a Computer Science & Engineering UngerGread. Currently I'm working on Web Development and seeking Intership opportunities!</p>
 
 - 🌱 I’m currently learning: Full Stack Development
 - 👯 I’m looking to collaborate on: Open source projects on Web Development
