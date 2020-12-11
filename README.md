@@ -1,4 +1,4 @@
-<img src="../images/Sankalan Dasgupta (1).png" alt="cover image">
+<img src="./images/Sankalan Dasgupta (1).png" alt="cover image">
 
 ### Hi there 👋
 
