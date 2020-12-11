@@ -35,3 +35,12 @@
  <img src="https://gp3.googleusercontent.com/0WZMtRyCsPrYUPRlUkuSCMRp0Fb2t-NJhJ9A-UGNizRFcufq7V-1w5tNoCZnG6PRVsp4234JTZTBEsr4ZAW26CX-fEONG1fe7jrbKMkD-xQgmuTSXBTuQnAb8pianG0aQgatk71U8g=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/z6l5FcAD9oU-tdsCykfXwXrqusBRixzEkFcWBIcWTnXMKTy05JaydPoOaXu6NX0yWpSTKMZYHXPoOcA6ud3WfeOF8vDzs_FTjSTvrV4ecs28XPvsZ9EpZ2fE3Rk_U1dvlpTzIbHQTw=s48-p-k" /style="margin-right : 5px">
 </div>
+---
+
+ 🤝 Connect with me: 
+ 
+ <a href="https://www.linkedin.com/in/sankalan-dasgupta-ba390616a/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://twitter.com/Sankalan47"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://www.facebook.com/sankalan.dasgupta.75"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://www.reddit.com/user/iKnwImNoob/"><img src="https://gp3.googleusercontent.com/Gb6FxVQZmHwQ9bdtizfLNe15D5j_8ttRj4x-baArip-8FHTDNHEbox94qNhsxy-IhH6a4hSxZGRQnd8yAzgR_pkINTxPUvhxTUHS0JUUiyXtP21KxMuVsMhpQZDzGBo3JYuwc5J9Sw=s48-p-k" style="margin-right : 5px"/></a>
+ ---
