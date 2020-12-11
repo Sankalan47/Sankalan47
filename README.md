@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1flf1JYX1MIwmzhuxl5kZLl2PsG-kQzXZ/view?usp=sharing" alt="cover image">
+<img src="https://www.canva.com/design/DAEQCBry9ds/IF8V7qnqAOJ2zYGGRHOzLw/view?utm_content=DAEQCBry9ds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover image">
 
 ### Hi there 👋
 
