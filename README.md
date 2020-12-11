@@ -1,6 +1,7 @@
 <img src="./images/Sankalan Dasgupta (1).png" alt="cover image">
 
 ### Hi there I'm Sankalan Dasgupta👋
+<p>Welcome to my GitHub profile :pray:</p>
 
 - 🌱 I’m currently learning: Full Stack Development
 - 👯 I’m looking to collaborate on: Open source projects on Web Development
