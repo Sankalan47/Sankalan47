@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEQCBry9ds/IF8V7qnqAOJ2zYGGRHOzLw/view?utm_content=DAEQCBry9ds&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover image">
+<img src="../images/Sankalan Dasgupta (1).png" alt="cover image">
 
 ### Hi there 👋
 
