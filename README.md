@@ -42,7 +42,6 @@
 
 <a href="https://medium.com/@sankalandasgupta"><img src="https://gp3.googleusercontent.com/iJJ4_1lo9FnkjtWhXJwTPxiPv72Wdzeglv2tIL8yePb2lDu2m3G11ECK9KlQNoqK6czwFvV_EmoJew2_98YVZkSUMdGLmpfRRk4JPEzTt44QWDjfJyZJdLlPGiXs2NmIt7WMkhFDbw=s48-p-k" style="text-align:center" style="margin-right : 5px"/></a>
 
----
 
  🤝 Connect with me: 
  
