@@ -1,4 +1,4 @@
-<img src="./images/Sankalan Dasgupta (1).png" alt="cover image">
+<img src="./images/Sankalan Dasgupta.gif" alt="cover image">
 
 ### Hi there I'm Sankalan Dasgupta👋
 <p>Welcome to my GitHub profile :pray:</p>
