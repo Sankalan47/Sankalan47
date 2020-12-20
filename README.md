@@ -56,6 +56,3 @@
 
 [![Sankalan's github stats](https://github-readme-stats.vercel.app/api?username=sankalan47&show_icons=true&theme=algolia)](https://github.com/sankalan47?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalan47&show_icons=true&theme=algolia)](https://github.com/sankalan47?tab=repositories)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sankalan47&repo=chat-app-using-socket.io)](https://github.com/Sankalan47/chat-app-using-socket.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sankalan47&repo=mernSocialMediaApp)](https://github.com/Sankalan47/mernSocialMediaApp)
