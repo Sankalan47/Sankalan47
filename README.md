@@ -2,10 +2,10 @@
 
 ### Hi there I'm Sankalan Dasgupta👋
 <p>Welcome to my GitHub profile :pray:</p>
-<p>I'm a Computer Science & Engineering UngerGread. Currently I'm working on Web Development and seeking Intership opportunities!</p>
+<p>Hi!, I'm Sankalan Dasgupta, Software Engineer at P360 . I focus on building our web applications for managing our IOT solutions. With tools like Angular,React and Nodejs. Currently, Looking for opportunities in Frontend Development</p>
 
 - 🌱 I’m currently learning: Full Stack Development
-- 👯 I’m looking to collaborate on: Open source projects on Web Development
+- 👯 I’m looking to collaborate on: Open source projects on Javascript & React
 - 📫 How to reach me: Connect on LinkedIn and FaceBook
 - ⚡ Fun fact: I can make Digital Illustrations and play Valorant and CSGO
 
@@ -47,7 +47,7 @@
 
  🤝 Connect with me: 
  
- <a href="https://www.linkedin.com/in/sankalan-dasgupta-ba390616a/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
+ <a href="https://www.linkedin.com/in/sankalan-dasgupta/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
  <a href="https://twitter.com/Sankalan47"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
  <a href="https://www.facebook.com/sankalan.dasgupta.75"><img src="https://gp3.googleusercontent.com/4z2VXzS073q2P8awnhezZ1ojnDjJhfFVn0cKiQk8NAiN231lQ9J2PxgKwFeganSlG2WSsshXVovizTFt-KEkVDJ2XzFWNU4F32bVnX_hWJQqdQs8cngAgSVzlf8VJgSZFdGJ0CnVgQ=s48-p-k" style="margin-right : 5px"/></a>
  <a href="https://www.reddit.com/user/iKnwImNoob/"><img src="https://gp3.googleusercontent.com/Gb6FxVQZmHwQ9bdtizfLNe15D5j_8ttRj4x-baArip-8FHTDNHEbox94qNhsxy-IhH6a4hSxZGRQnd8yAzgR_pkINTxPUvhxTUHS0JUUiyXtP21KxMuVsMhpQZDzGBo3JYuwc5J9Sw=s48-p-k" style="margin-right : 5px"/></a>
