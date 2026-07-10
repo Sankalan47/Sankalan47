@@ -8,4 +8,4 @@ Sole builder of [Book On A Budget](https://bookonabudget.com) — a B2B travel p
 
 📫 [sankalandasgupta.com](https://sankalandasgupta.com) · [LinkedIn](https://www.linkedin.com/in/sankalan-dasgupta/)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sankalan47&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=sankalan47&show_icons=true&theme=dark&hide_border=true)
